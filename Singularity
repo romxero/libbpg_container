@@ -4,10 +4,10 @@ From: ubuntu:18.04
 %labels
 Author "Randall Cab White - rcwhite@stanford.edu"
 
-#########
+###########
 #%setup
-#########
-#########
+###########
+###########
 
 #Downlaod packages
 %post
